@@ -1,0 +1,37 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    max-width: 300px;
+}
+
+ul li {
+    border: 1px solid black;
+}
+
+ul a {
+    text-decoration: none;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    padding: 10px;
+    background-color: rgb(239, 239, 239);
+    color: black;
+    font-size: 18px;
+}
+
+li a:hover {
+    background-color: lightgrey;
+}
+
+.active {
+    background-color: green;
+    color: white;
+}
+
+.active:hover {
+    background-color: green;
+    color: white;
+}
