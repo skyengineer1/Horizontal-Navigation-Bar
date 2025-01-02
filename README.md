@@ -1,6 +1,6 @@
-# Horizontal Navigation Bar
+# Vertical Navigation Bar
 
-🚀 A simple and elegant horizontal navigation bar built using HTML and CSS. Perfect for small web projects and learning purposes.
+🚀 A simple and elegant vertical navigation bar built using HTML and CSS. Perfect for small web projects and learning purposes.
 
 ## Features
 - 🌐 Responsive design
@@ -14,9 +14,6 @@
    ```
 2. Open `index.html` in your browser to view the navigation bar.
 3. Customize `style.css` to fit your design needs.
-
-## Preview
-![Preview of Horizontal Navigation Bar](preview-image.png) *(Add your preview image here)*
 
 ## Technologies Used
 - HTML5
